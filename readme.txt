@@ -1,5 +1,8 @@
 Инструкция.
 
+# Ссылка на github:
+https://github.com/DruidCat/pyqt-rag
+
 # Создайте новое виртуальное окружение
 mkdir ~/git/rag
 cd ~/git/rag
