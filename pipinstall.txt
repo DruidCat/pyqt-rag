@@ -1,0 +1,12 @@
+# pip install -r pipinstall.txt
+# Зависимости для создания RAG базы данных
+transformers==4.30.0
+torch==2.0.1
+# Точно работает с faiss-cpu-1.14.3
+faiss-cpu
+numpy==1.26.4
+# Зависимости для запросов к LM Studio.
+# Точно работает с openai-2.52.0 
+openai
+# Точно работает с requests-2.34.2
+requests
