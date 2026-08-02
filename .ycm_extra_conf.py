@@ -78,7 +78,8 @@ flags = [
     '-isystem', '/usr/include/x86_64-linux-gnu/qt6/QtQuickDialogs2',
     '-isystem', '/usr/include/x86_64-linux-gnu/qt6/QtQuickEffects',
     '-isystem', '/usr/include/x86_64-linux-gnu/qt6/QtQuickLayouts',
-    '-isystem', '/usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets'
+    '-isystem', '/usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets',
+    '-isystem', '/home/druidcat/.pyenv/versions/3.11.15/lib/python3.11/site-packages/PyQt6'
 ]
 
 
